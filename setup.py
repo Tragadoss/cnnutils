@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="cnnutilstp",
-    version="0.0.2",
+    version="2.0.0",
     author="tragadoss",
     author_email="heitam159@gmail.com",
     description="file needed in the tp",
