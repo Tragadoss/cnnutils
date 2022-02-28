@@ -11,9 +11,9 @@ setuptools.setup(
     description="file needed in the tp",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/Tragadoss/cnnutils",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/Tragadoss/cnnutils",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
